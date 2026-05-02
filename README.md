@@ -1,13 +1,14 @@
-### Senior Software Engineer
+### Software Engineer
 
-***HW!*** I’m a Software Engineer with 10+ years in both frontend & backend. Have experience of building services, libraries and standalone applications.
+***HW!*** I’m a Software Engineer and have experience of building services, libraries and standalone applications.
 
-Currently working on JavaScript/TypeScript ecosystem and also Python scripting and a little bit technical support with Django Web Framework.
+Currently working on JavaScript/TypeScript ecosystem and also Python scripting (web-scaping, creation of auxiliary utilities, improving Django Web Framework). Have strong background with C++ (OCR libs, Qt, STL).
+
+I clearly understand the methods and specifics of testing web applications: functionality, GUI, layout, usability, cross-browser compatibility.
 
 Also have skills and experience on:
-- improving CI/CD pipelines
-- tests automation/coverage
+- tests automation/coverage (Playwright, Allure)
+- improving CI/CD pipelines (Gitlab CI/CD)
 - maintaining technical documentation
-- background with C# and C/C++ developing
 
-In 2026, I am focused on understanding System Design Architecture.
+My personal site on GitHub pages &rarr; [victorivanovspb.github.io](https://victorivanovspb.github.io/)
